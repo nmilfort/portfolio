@@ -1,40 +1,4 @@
-/*nav,
-#bar-color {
-  background-color: rgb(198,156,109);
-}
 
-nav {
-  width: auto;
-}
-
-nav li {
-  display: inline-block;
-}
-
- nav a {
-   background-color: rgb(198,156,109);
-   padding: 10px;
-   display: block;
-   text-decoration: none;
- }
-
- nav a:link {
-   color: #FFFFFF;
- }
-
- nav a:visited {
-   color: #3f2609;
- }
-
- nav a:hover {
-   background-color: #3F2609;
-   color: #FFFFFF;
- }
-
- nav a:active {
-   background-color: #eee;
-   color: #8D602D;
- } */
  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&family=Poppins:wght@600&display=swap');
 
  *{
@@ -338,7 +302,7 @@ label {
   font-family: 'Montserrat', sans-serif; 
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
+/* When moving the mouse over the submit button */
 input[type=submit]:hover {
   background-color: #0645AD;
 }
@@ -371,39 +335,6 @@ input[type=submit]:hover {
   padding: 25px;
 }
 
-
-/*#skills {
-  width: 960px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 150px;
-}
-
-#skills h2 {
-  padding-bottom: 25px;
-}
-
-#skills ul li{
-  display: inline-block;
-  line-height: 80px;
-  margin: 0 5px;
-}
-
-.ski-box {
-  background-color: white;
-  box-shadow: -5px 1px 9px rgba(0,0,0,0.2);
-  text-align: center;
-}
-
-.ski-box li {
-  padding-right: 40px;
-}
-
-#projects {
-  width: 960px;
-  margin-left: auto;
-  margin-right: auto;
-}*/
 
 .fab.fa-github.fa-2x {
   padding-right: 30px;
